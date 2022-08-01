@@ -7,12 +7,12 @@
 </h1>
 
 <br>
-<p align="center">
+<p align="left">
   Hi, I'm shuohao yang, An avid fan of game engines
   <br>
-  <br>
-  🔬 I am currently working at Kingsoft as a game engine development engineer
-  <br>
+  <br>   
+  🔬 I am currently working at Kingsoft as a game engine development engineer   
+  <br>  
   🎓 I graduated from Guilin University of Electronic Science and Technology with a degree in Digital Media Technology
   <br>
   💻 I am extremely passionate about everything related to computers
