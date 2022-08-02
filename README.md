@@ -66,34 +66,34 @@
 <p align=center>
   <div align=center>
     <a>
-      <img align="left" width=400 src="Images/1.png" />
+      <img align="left"  src="Images/1.png" />
     </a>
     <a>
-      <img align="right" width=400 src="Images/2.png" />
-    </a>
-  </div>
-    <div align=center>
-    <a>
-      <img align="left" width=400 src="Images/3.jpg" />
-    </a>
-    <a>
-      <img align="right" width=400 src="Images/5.jpg" />
+      <img align="right"  src="Images/2.png" />
     </a>
   </div>
     <div align=center>
     <a>
-      <img align="left" width=400 src="Images/6.jpg" />
+      <img align="left"  src="Images/3.jpg" />
     </a>
     <a>
-      <img align="right" width=400 src="Images/8.jpg" />
+      <img align="right"  src="Images/5.jpg" />
     </a>
   </div>
     <div align=center>
     <a>
-      <img align="left" width=400 src="Images/4.jpg" />
+      <img align="left"  src="Images/6.jpg" />
     </a>
     <a>
-      <img align="left" width=400 src="Images/7.png" />
+      <img align="right"  src="Images/8.jpg" />
+    </a>
+  </div>
+    <div align=center>
+    <a>
+      <img align="left"  src="Images/4.jpg" />
+    </a>
+    <a>
+      <img align="left"  src="Images/7.png" />
     </a>
   </div>
     <div align=center>
