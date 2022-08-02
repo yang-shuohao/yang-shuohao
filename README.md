@@ -68,39 +68,39 @@
 <p align=center>
   <div align=center>
     <a>
-      <img align="left"  src="Images/1.jpg" />
+      <img align="left" width=390 src="../Images/1.jpg" />
     </a>
     <a>
-      <img align="right"  src="Images/2.jpg" />
-    </a>
-  </div>
-    <div align=center>
-    <a>
-      <img align="left"  src="Images/3.jpg" />
-    </a>
-    <a>
-      <img align="right"  src="Images/4.jpg" />
+      <img align="right" width=390 src="../Images/2.jpg" />
     </a>
   </div>
     <div align=center>
     <a>
-      <img align="left"  src="Images/5.jpg" />
+      <img align="left" width=390 src="../Images/3.jpg" />
     </a>
     <a>
-      <img align="right"  src="Images/6.jpg" />
-    </a>
-  </div>
-    <div align=center>
-    <a>
-      <img align="left"  src="Images/7.jpg" />
-    </a>
-    <a>
-      <img align="right"  src="Images/8.jpg" />
+      <img align="right" width=390 src="../Images/4.jpg" />
     </a>
   </div>
     <div align=center>
     <a>
-      <img align="left"  src="Images/9.jpg" />
+      <img align="left" width=390 src="../Images/5.jpg" />
+    </a>
+    <a>
+      <img align="right" width=390 src="Images/6.jpg" />
+    </a>
+  </div>
+    <div align=center>
+    <a>
+      <img align="left" width=390 src="../Images/7.jpg" />
+    </a>
+    <a>
+      <img align="right" width=390 src="../Images/8.jpg" />
+    </a>
+  </div>
+    <div align=center>
+    <a>
+      <img align="left" width=390 src="../Images/9.jpg" />
     </a>
   </div>
 </p>
