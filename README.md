@@ -61,47 +61,7 @@
 <h4 align="center">
   <a href="https://github.com/yang-shuohao?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<h2 align="center">⚡ Photo ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a>
-      <img align="left" width=400 src="Images/1.png" />
-    </a>
-    <a>
-      <img align="right" width=400 src="Images/2.png" />
-    </a>
-  </div>
-    <div align=center>
-    <a>
-      <img align="left" width=400 src="Images/3.jpg" />
-    </a>
-    <a>
-      <img align="right" width=400 src="Images/5.jpg" />
-    </a>
-  </div>
-    <div align=center>
-    <a>
-      <img align="left" width=400 src="Images/6.jpg" />
-    </a>
-    <a>
-      <img align="right" width=400 src="Images/8.jpg" />
-    </a>
-  </div>
-    <div align=center>
-    <a>
-      <img align="left" width=400 src="Images/4.jpg" />
-    </a>
-    <a>
-      <img align="left" width=400 src="Images/7.png" />
-    </a>
-  </div>
-    <div align=center>
-    <a>
-      <img align="center"  src="Images/9.jpg" />
-    </a>
-  </div>
-</p>
+
 
 
 
