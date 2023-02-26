@@ -17,7 +17,7 @@
   <br>
   💻 I am extremely passionate about everything related to computers
   <br>
-  📚 I am currently working on the Unreal Engine
+  📚 I have a dream: homemade computer, homemade operating system, homemade compiler, homemade programming language, using homemade programming language to write games, using homemade compiler to compile homemade programming language, using homemade operating system to run this homemade game, using homemade computer to run homemade operating system.
   <br>
   💬 Ask me anything about from <a href="https://github.com/yang-shuohao/yang-shuohao/issues" title="Issues">Here</a>
   <br>
@@ -49,10 +49,6 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/yang-shuohao/Render-Books" title="Render-Books"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yang-shuohao&repo=Render-Books&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/yang-shuohao/Physics-based-animation" title="Physics-based-animation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yang-shuohao&repo=Physics-based-animation&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/yang-shuohao/YSHRender" title="YSHRender"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yang-shuohao&repo=YSHRender&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/yang-shuohao/Renderer" title="Renderer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yang-shuohao&repo=Renderer&theme=react&border_color=61dafb&border_radius=10"></a>
